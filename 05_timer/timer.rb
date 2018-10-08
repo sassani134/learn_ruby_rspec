@@ -1,1 +1,4 @@
-#write your code here
+def time_string(temps)
+temps = Time.now
+	
+end
